@@ -1,4 +1,4 @@
-let classA = class ClaseB {
+let classB = class ClaseB {
 
     foo_bar = "Foo Bar B";
 
@@ -8,4 +8,4 @@ let classA = class ClaseB {
 
 }
 
-export default classA;
+export default classB;
